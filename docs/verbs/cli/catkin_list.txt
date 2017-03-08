@@ -3,7 +3,7 @@ usage: catkin list [-h] [--workspace WORKSPACE] [--profile PROFILE]
                    [--rdepends-on [PKG [PKG ...]]] [--this] [--quiet]
                    [--unformatted]
 
-Lists catkin packages in the workspace or other arbitray folders.
+Lists catkin packages in the workspace or other arbitrary folders.
 
 optional arguments:
   -h, --help            show this help message and exit
